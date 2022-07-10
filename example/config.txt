@@ -1,0 +1,2 @@
+Prefix plugins/FixMegaHitContig/example/
+Plugin FixMegaHitContig inputfile parameters.fmhc.txt outputfile final_assembly.fasta
